@@ -181,4 +181,8 @@ end
 
 Submit the form and see what happens! If you've gotten this far, you can successfully connect an HTML form to your Sinatra app, and you know how to use the `params` hash to access and manipulate data from the user.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sinatra-forms-params-readme-walkthrough/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sinatra-forms-params-readme-walkthrough/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG HTML Forms and Params</p>
